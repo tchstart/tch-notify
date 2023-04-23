@@ -1,6 +1,6 @@
 # ms-notify
 定时发送email： springboot + bootstrap + thymeleaf    
-运行环境： idea ,springboot(2.2.5), redis(密码：root123456),jdk(1.8), mysql     
+运行环境： idea ,springboot(2.2.5), redis,jdk(1.8), mysql     
 实现效果：  
 *实现JWT登录授权，通过注解自定义需要token的请求方法  
 *定时任务自主控制启动禁止恢复  
